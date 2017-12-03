@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c258a46fe52e50045b15bdefb56362fb, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  requiredXP: 10
+  number: 2
+  upgrades:
+  - {fileID: 11400000, guid: 3d37c311f1e261a4b8fdd1e69e24f349, type: 2}
+  - {fileID: 11400000, guid: a105c6287aef63a4e9747b4c19bde2b1, type: 2}
+  - {fileID: 11400000, guid: 50176a7849a040e4a9045d72c0b72eec, type: 2}
